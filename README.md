@@ -22,12 +22,12 @@ https://twitter.com/KatProgramming
 
 *******************************************************************************************************************************************
 
-kat@ubuntu:~/Desktop/tweetafortune$ source env/bin/activate
-(env)kat@ubuntu:~/Desktop/tweetafortune$ python3.4 tweet-a-fortune.py freebsd_fortunes_clean.sl3
-(env)kat@ubuntu:~/Desktop/tweetafortune$ pip freeze > requirements.txt
-(env)kat@ubuntu:~/Desktop/tweetafortune$ cat requirements.txt
-twitter==1.15.0
-(env)kat@ubuntu:~/Desktop/tweetafortune$ deactivate
-(env)kat@ubuntu:~/Desktop/tweetafortune$ ls
-1.jpg  3.jpg  5.jpg  env                         tweet-a-fortune.py
-2.jpg  4.jpg  6.jpg  freebsd_fortunes_clean.sl3
+kat@ubuntu:~/Desktop/tweetafortune$ source env/bin/activate<br>
+(env)kat@ubuntu:~/Desktop/tweetafortune$ python3.4 tweet-a-fortune.py freebsd_fortunes_clean.sl3<br>
+(env)kat@ubuntu:~/Desktop/tweetafortune$ pip freeze > requirements.txt<br>
+(env)kat@ubuntu:~/Desktop/tweetafortune$ cat requirements.txt<br>
+twitter==1.15.0<br>
+(env)kat@ubuntu:~/Desktop/tweetafortune$ deactivate<br>
+(env)kat@ubuntu:~/Desktop/tweetafortune$ ls<br>
+1.jpg  3.jpg  5.jpg  env                         tweet-a-fortune.py<br>
+2.jpg  4.jpg  6.jpg  freebsd_fortunes_clean.sl3<br>
