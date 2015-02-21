@@ -12,9 +12,11 @@ External resources:<br>
 
 *******************************************************************************************************************************************
 
-Instructions:
+Instructions [for tweet-a-fortune.py]:
 
 The final exercise is to write a program named tweet-a-fortune.py. You must make a directory with this project which includes at least 5 images that you have the rights to use (i.e. take your own pictures). The program generates a random number using the random module, selects a fortune from the fortune database given the random number, verifies the text is less than 140 characters - if not it finds another random aphorism until it's length is less than 140 characters, then randomly selects one of the images you have included in your project and tweets this message to your Twitter account. (Students who finish early should look at how to tweet images from flickr.com)
+
+Note: Instructions for other two files are within those files.
 
 *******************************************************************************************************************************************
 
