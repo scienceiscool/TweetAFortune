@@ -1,4 +1,4 @@
-#CS223P - Python Programming
+#CPSC 223P - Python Programming
 
 __Author Name:__ Kathy Saad<br>
 __Project Title:__ Project 7 - RDB, Python Virtual Environments, PyPi, pip<br>
